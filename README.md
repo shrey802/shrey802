@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Pingle</h1>
-<h3 align="center">An passionate Computer Science undergrad</h3>
+<h3 align="center">A passionate Computer Science undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
 
