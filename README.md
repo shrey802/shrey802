@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyash Pingle</h1>
-<h3 align="center">A passionate CS student</h3>
+<h3 align="center">An passionate Computer Science undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
 
-- 🔭 I’m currently working on **unixchange**
+- 🔭 I’m currently working on **BachEats**
 
-- 🌱 I’m currently learning **Firebase & Azure**
+- 🌱 I’m currently learning **Azure & some DevOps tools**
 
-- 👯 I’m looking to collaborate on **web based Azure projects**
+- 👯 I’m looking to collaborate on **web-based Azure projects**
 
 - 🤝 I’m looking for help with **data structures and algorithms**
 
