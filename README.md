@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BachEats**
 
-- 🌱 I’m currently learning **Azure & some DevOps tools**
+- 🌱 I’m currently learning **to build web apps on Azure**
 
 - 👯 I’m looking to collaborate on **web-based Azure projects**
 
