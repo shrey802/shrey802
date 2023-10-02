@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
 
-- 🔭 I’m currently working on **few things**
+- 🔭 I’m currently working on **few things, one of which is the OkQUIC project**
 
 - 🌱 I’m currently learning and exploring **new tech & DSA**
 
