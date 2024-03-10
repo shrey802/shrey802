@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Pingle</h1>
 <h3 align="center">A passionate Computer Science undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmBFfXQNwi0FIAsr0Ap3l1xE64OZNdI1KuA&usqp=CAU" alt="shrey802" /> </p>
 
 - 🔭 Currently building a SaaS platform... 
 
