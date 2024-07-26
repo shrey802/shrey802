@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
 
-- 🔭 I’m currently working on [Connect Logi](https://github.com/shrey802/Prologis_Technology_CRM)
+- 🔭 I’m currently working on **few projects**
 
 - 🌱 I’m currently learning **ML & IOT programming**
 
