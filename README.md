@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyash Pingle</h1>
-<h3 align="center">21 y/o tinkerer from 🇮🇳 </h3>
+<h3 align="center">22 y/o tinkerer from 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
 
-- 🔭 I’m currently working on **few projects**
+- 🔭 I’m currently working on at **Cerence Inc**
 
-- 🌱 I’m currently learning **ML & IOT programming**
+- 🌱 I’m currently learning **whole lot of AI**
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreypingle23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P0WVZdQtWiTTcL_eajIU9Mdvfvv8v9ii/view](https://drive.google.com/file/d/1P0WVZdQtWiTTcL_eajIU9Mdvfvv8v9ii/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P0WVZdQtWiTTcL_eajIU9Mdvfvv8v9ii/view](https://drive.google.com/file/d/1KqW2Nswq89rDse9wguyEKYncC8Y-ih5w/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
