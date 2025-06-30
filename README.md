@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey802&label=Profile%20views&color=0e75b6&style=flat" alt="shrey802" /> </p>
 
-- 🔭 I’m currently working on at **Cerence Inc**
+- 🔭 I’m currently working at **Cerence Inc** as a Python Intern
 
 - 🌱 I’m currently learning **whole lot of AI**
 
